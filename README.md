@@ -1,1 +1,1 @@
-# odin-recipes
+This is a basic page to display recipes and is the first project on The Odin Project
